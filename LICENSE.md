@@ -93,3 +93,4 @@ PLEASE READ THE FOLLOWING SECTION CAREFULLY BECAUSE IT REQUIRES YOU TO SUBMIT TO
 **c. Assignment.** You may not assign any rights or obligations under this License, including by operation of law, without Our prior written consent, which may be withheld in its sole discretion. We may assign Our rights or obligations under this License in Our sole discretion.
 
 **d. Waiver.** Failure of either party at any time to enforce any of the provisions of this License will not be construed as a waiver of such provisions or in any way affect the validity of this License or parts thereof.
+Gm based
